@@ -48,7 +48,7 @@ The application uses a professional color scheme inspired by Youbloom:
 1. Clone the repository
    ```bash
    git clone https://github.com/khangpt2k6/youbloom
-   cd technical-react
+   cd youbloom
    ```
 
 2. Install dependencies
