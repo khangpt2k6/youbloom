@@ -1,15 +1,5 @@
 # Technical React Interview
 
-
-### Core Functionality
-- User Authentication System with phone number validation
-- Protected Routes using React Router DOM
-- State Management with React Context API
-- API Integration with JSONPlaceholder REST API
-- Responsive Design using Tailwind CSS
-- Form Validation with real-time error handling
-- Loading States and error management
-
 ### Pages
 1. Login Page
    - Phone number input with validation (+254 format)
