@@ -1,6 +1,5 @@
 # Technical React Interview
 
-## Features
 
 ### Core Functionality
 - User Authentication System with phone number validation
